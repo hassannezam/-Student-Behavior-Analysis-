@@ -181,7 +181,9 @@ The SQL queries feed into Power BI dashboards that visualize:
 **Hassan Nezamoleslami**  
 *Founder, SchoolDataPulse*  
 📧 [info@SchoolDataPulse.co.uk](mailto:info@SchoolDataPulse.co.uk)  
-🌐 [www.SchoolDataPulse.co.uk](https://www.SchoolDataPulse.co.uk)    https://www.linkedin.com/in/hassan-nezamoleslami
+🌐 [www.SchoolDataPulse.co.uk](https://www.SchoolDataPulse.co.uk)  
+
+https://www.linkedin.com/in/hassan-nezamoleslami
 
 ---
 
